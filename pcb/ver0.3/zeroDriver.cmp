@@ -1,0 +1,427 @@
+Cmp-Mod V01 Created by PcbNew   date = 10/21/16 15:46:38
+
+BeginCmp
+TimeStamp = 5809BFB5
+Path = /57EED11D
+Reference = U4;
+ValeurCmp = AP2112K;
+IdModule  = zeroDriver:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F493E1
+Path = /57E8B0E7
+Reference = P5;
+ValeurCmp = CONN_02X05;
+IdModule  = zeroDriver:JTAG;
+EndCmp
+
+BeginCmp
+TimeStamp = 580845B0
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F378AC
+Path = /57E1E760
+Reference = U5;
+ValeurCmp = SAMD21G18A;
+IdModule  = Housings_QFP:TQFP-48_7x7mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37852
+Path = /57E376F6
+Reference = U1;
+ValeurCmp = 74AHC1G125;
+IdModule  = TO_SOT_Packages_SMD:SOT-353;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F377C4
+Path = /56DBF2EA
+Reference = P2;
+ValeurCmp = M1;
+IdModule  = tinybot:TerminalBlock_5mm_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3780B
+Path = /57E3331C
+Reference = Q1;
+ValeurCmp = Q_PMOS_GSD;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3774F
+Path = /56E2B2C0
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37755
+Path = /56DC0BCC
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37761
+Path = /56DC0D30
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37767
+Path = /57EEDB4E
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3776D
+Path = /57EF03E0
+Reference = C6;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37773
+Path = /57E2473D
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37779
+Path = /57E1C055
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37785
+Path = /57E1CFC1
+Reference = C10;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3778B
+Path = /57E23DDC
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37791
+Path = /57E4674B
+Reference = C12;
+ValeurCmp = 15pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37797
+Path = /57E469D8
+Reference = C13;
+ValeurCmp = 15pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3779F
+Path = /57E35E71
+Reference = D1;
+ValeurCmp = Led_RGB_CA;
+IdModule  = zeroDriver:CREE-CA;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F377A5
+Path = /56DB9182
+Reference = D2;
+ValeurCmp = RED LED;
+IdModule  = tinybot:led-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F377AB
+Path = /56DD8044
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = tinybot:BOURNS_PTC_FUSE_S1;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F377CA
+Path = /56DBF569
+Reference = P3;
+ValeurCmp = M2;
+IdModule  = tinybot:TerminalBlock_5mm_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F377D4
+Path = /56DBB664
+Reference = P4;
+ValeurCmp = ICSP;
+IdModule  = tinybot:ICSP_2x3;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37811
+Path = /57E3AAF7
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37817
+Path = /57E3B22A
+Reference = R2;
+ValeurCmp = 300R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3781D
+Path = /56DBB6F7
+Reference = R3;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37823
+Path = /56DBB72A
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37829
+Path = /56DD91F9
+Reference = R5;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3782F
+Path = /57EF6AE7
+Reference = R6;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37835
+Path = /57E8553C
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3783B
+Path = /57E6E768
+Reference = R8;
+ValeurCmp = 200R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3785A
+Path = /56DBB8AC
+Reference = U2;
+ValeurCmp = LD1117S5TR;
+IdModule  = tinybot:LD1117_SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F3786F
+Path = /57E17620
+Reference = U3;
+ValeurCmp = DRV8835;
+IdModule  = tinybot:DRV8835;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F378B2
+Path = /57E458A7
+Reference = Y1;
+ValeurCmp = 32.768kHz;
+IdModule  = zeroDriver:crystal;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F37FF7
+Path = /57E2671E
+Reference = P7;
+ValeurCmp = M3;
+IdModule  = tinybot:TerminalBlock_5mm_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F74128
+Path = /57E191EB
+Reference = P6;
+ValeurCmp = CONN_01X10;
+IdModule  = zeroDriver:Pin_Header_Straight_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57F7413D
+Path = /57E1927E
+Reference = P8;
+ValeurCmp = CONN_01X10;
+IdModule  = zeroDriver:Pin_Header_Straight_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5800556D
+Path = /56E2B323
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5805FBC6
+Path = /56E2ABAC
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = zeroDriver:peter-switch;
+EndCmp
+
+BeginCmp
+TimeStamp = 580626AF
+Path = 
+Reference = REF**;
+ValeurCmp = mount holes;
+IdModule  = sensei:mount-holes;
+EndCmp
+
+BeginCmp
+TimeStamp = 580626EB
+Path = 
+Reference = REF**;
+ValeurCmp = mount holes;
+IdModule  = sensei:mount-holes;
+EndCmp
+
+BeginCmp
+TimeStamp = 580626FE
+Path = 
+Reference = REF**;
+ValeurCmp = mount holes;
+IdModule  = sensei:mount-holes;
+EndCmp
+
+BeginCmp
+TimeStamp = 5806270C
+Path = 
+Reference = REF**;
+ValeurCmp = mount holes;
+IdModule  = sensei:mount-holes;
+EndCmp
+
+BeginCmp
+TimeStamp = 58070A32
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = sensei:en-labs-logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 58084572
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 58084582
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5808458B
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 580846A5
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5808474A
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5808491F
+Path = 
+Reference = via;
+ValeurCmp = VAL**;
+IdModule  = tinybot:via;
+EndCmp
+
+BeginCmp
+TimeStamp = 58085709
+Path = /57E64766
+Reference = P1;
+ValeurCmp = USB_OTG;
+IdModule  = zeroDriver:USB_OTG;
+EndCmp
+
+BeginCmp
+TimeStamp = 580893D1
+Path = /58093716
+Reference = Q2;
+ValeurCmp = Q_PMOS_GSD;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58089643
+Path = /57E2359A
+Reference = L1;
+ValeurCmp = Ferrite Bead;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+EndListe

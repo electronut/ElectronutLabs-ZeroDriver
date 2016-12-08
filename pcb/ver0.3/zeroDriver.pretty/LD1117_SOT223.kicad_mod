@@ -1,0 +1,12 @@
+(module LD1117_SOT223 (layer F.Cu) (tedit 5809B5E2)
+  (fp_text reference U2 (at 2.515 -2.755) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.05)))
+  )
+  (fp_text value LD1117S5TR (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 3 smd rect (at 2.3 2.9) (size 0.95 2.15) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -2.3 2.9) (size 0.95 2.15) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0 -2.9) (size 3.25 2.15) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0 2.9) (size 0.95 2.15) (layers F.Cu F.Paste F.Mask))
+)

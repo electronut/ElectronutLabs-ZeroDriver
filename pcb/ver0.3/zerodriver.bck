@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2112K
+D 300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP SAMD21G18A
+D QFN48, 16K Flash, 2K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42129-SAM-D20_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

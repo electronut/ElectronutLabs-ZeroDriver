@@ -1,0 +1,41 @@
+** Drc report for E:\zeroDriver\pcb\ver0.2\zeroDriver.kicad_pcb **
+** Created on  **
+
+** Found 11 DRC errors **
+ErrType(19): Pad near pad
+    @ (102.900 mm,109.150 mm): Pad on F.Cu, Non-copper of U3
+    @ (103.150 mm,109.910 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+ErrType(19): Pad near pad
+    @ (102.900 mm,111.850 mm): Pad on F.Cu, Non-copper of U3
+    @ (103.150 mm,110.500 mm): Pad 0 on F.Cu, Non-copper of U3
+ErrType(19): Pad near pad
+    @ (103.150 mm,109.910 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+    @ (103.150 mm,110.500 mm): Pad 0 on F.Cu, Non-copper of U3
+ErrType(19): Pad near pad
+    @ (103.150 mm,110.500 mm): Pad 0 on F.Cu, Non-copper of U3
+    @ (103.150 mm,110.510 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+ErrType(19): Pad near pad
+    @ (103.150 mm,110.510 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+    @ (103.150 mm,111.090 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+ErrType(19): Pad near pad
+    @ (103.150 mm,111.090 mm): Pad 1 on F.Cu, B.Cu, Internal of via
+    @ (103.400 mm,111.850 mm): Pad on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (103.400 mm,111.850 mm): Track 0.250 mm, net [GND] (2) on layer F.Cu, length: 0.900 mm
+    @ (103.400 mm,111.850 mm): Pad on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (102.900 mm,111.850 mm): Track 0.250 mm, net [GND] (2) on layer F.Cu, length: 0.900 mm
+    @ (102.900 mm,111.850 mm): Pad on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (103.400 mm,109.150 mm): Track 0.250 mm, net [GND] (2) on layer F.Cu, length: 0.900 mm
+    @ (103.400 mm,109.150 mm): Pad on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (102.900 mm,109.150 mm): Track 0.250 mm, net [GND] (2) on layer F.Cu, length: 0.900 mm
+    @ (102.900 mm,109.150 mm): Pad on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (103.400 mm,111.850 mm): Track 0.250 mm, net [GND] (2) on layer F.Cu, length: 0.200 mm
+    @ (103.400 mm,111.850 mm): Pad on F.Cu, Non-copper of U3
+
+** Found 0 unconnected pads **
+
+** End of Report **
