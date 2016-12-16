@@ -1,7 +1,7 @@
 ![](ultrasonic-bot.jpg)
-######ZeroDriver based object detecting 2 wheel bot. 
+######ZeroDriver based object-detecting 2 wheel bot. 
 
-The Ultrasonic bot is an object detecting 2 wheel bot. The bot moves in a straight path unless obstructed with an object. If the bot detects an object within a range of 10 cms, it halts and reverses for a short distance. This is followed by a left turn to change the bot's trajectory. The RGB LED on ZeroDriver signifies various motions of the bot i.e 
+The Ultrasonic bot is an object-detecting 2 wheel bot. The bot moves in a straight path unless obstructed with an object. If the bot detects an object within a range of 10 cms, it halts and reverses for a short distance. This is followed by a left turn to change the bot's trajectory. The RGB LED on ZeroDriver signifies various motions of the bot.
 
 
 ###Connections:
