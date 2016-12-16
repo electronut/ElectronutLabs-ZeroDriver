@@ -1,4 +1,4 @@
-#####This directory consists of instructions and sample code for the examples developed using ZeroDriver.
+###This directory consists of instructions and sample code for the examples developed using ZeroDriver.
 
 **ZeroDriver-init** demonstrates the use of RGB LED and DRV8835 motor driver.
 
