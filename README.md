@@ -23,7 +23,7 @@ Robotics projects usually need two boards - a microcontroller board and a separa
 Well, depends on your imagination. :-)
 
 But we do have some awesome demo projects - complete with code and design
-information. Take a look at the [code](code/README.md) directory.
+information. Take a look at the [code](code/) directory.
 
 ## ZeroDriver Crowdfunding
 
