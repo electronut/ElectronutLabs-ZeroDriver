@@ -1,4 +1,4 @@
-![](ZeroDriver-test.jpg)
+![](ZeroDriver.jpg)
 #####ZeroDriver
 
 Code to test RGB LED and DRV8835.
