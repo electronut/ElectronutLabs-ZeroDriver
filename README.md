@@ -18,6 +18,13 @@ Robotics projects usually need two boards - a microcontroller board and a separa
 * 12 V max power supply, 1.5 A current per H bridge
 * Shipped with Arduino Zero bootloader for easy programming
 
+## What can you do with it?
+
+Well, depends on your imagination. :-)
+
+But we do have some awesome demo projects - complete with code and design
+information. Take a look at the ![code](code/README.md) directory.
+
 ## ZeroDriver Crowdfunding
 
 We are currently trying to crowdfund the production of ZeroDriver at **Crowd Supply**.
