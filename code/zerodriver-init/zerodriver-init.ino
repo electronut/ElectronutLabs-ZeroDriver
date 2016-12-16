@@ -1,6 +1,6 @@
 /*
  * zerodriver_test - Code to test basic functionality of ZeroDriver.
-   The RGB LED blinks white color twice. This is followed by spinning 
+   The RGB LED transitions from Red, Green and Blue. This is followed by spinning 
    of motors with RGB LED lit as cyan. Post 2 seconds delay, RGB LED 
    switches to magenta and the motors spin in a reverse direction.
 
@@ -45,10 +45,10 @@ void setup() {
 
 void loop()
 {
-  // blink white twice
+  // red
   digitalWrite(ledR, LOW);
-  digitalWrite(ledG, LOW);
-  digitalWrite(ledB, LOW);
+  digitalWrite(ledG, HIGH);
+  digitalWrite(ledB, HIGH);
 
   delay(500);
 
@@ -58,9 +58,10 @@ void loop()
 
   delay(500);
 
-  digitalWrite(ledR, LOW);
+  // green
+  digitalWrite(ledR, HIGH);
   digitalWrite(ledG, LOW);
-  digitalWrite(ledB, LOW);
+  digitalWrite(ledB, HIGH);
 
   delay(500);
 
@@ -68,6 +69,19 @@ void loop()
   digitalWrite(ledG, HIGH);
   digitalWrite(ledB, HIGH);
 
+  delay(500);
+
+  // blue
+  digitalWrite(ledR, HIGH);
+  digitalWrite(ledG, HIGH);
+  digitalWrite(ledB, LOW);
+
+  delay(500);
+
+  digitalWrite(ledR, HIGH);
+  digitalWrite(ledG, HIGH);
+  digitalWrite(ledB, HIGH);
+  
   delay(1000);
     
   // set to cyan
